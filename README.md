@@ -4,8 +4,8 @@
 #### 本项目仅供学习交流，禁止非法商业用途，请支持正版音乐
 
 #### 开发测试环境
-* OS: macOS Big Sur、Windows 10（虚拟机）  
-* IDE: Visual Studio Code v1.66.2  
+* OS: Windows 10、MacOS(虚拟机) 
+* IDE: Visual Studio Code
 * 其他: 详见package.json  
 
 #### 主要功能
