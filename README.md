@@ -1,8 +1,6 @@
 ## NH-Music是一款基于Electron + Vue3开发的音乐播放器
 ### 欢迎喜欢GUI开发的朋友一起学习和交流
 
-#### 本项目仅供学习交流，禁止非法商业用途，请支持正版音乐
-
 #### 开发测试环境
 * OS: Windows 10、MacOS(虚拟机) 
 * IDE: Visual Studio Code
